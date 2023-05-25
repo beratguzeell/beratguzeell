@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/beratguzel/](https://www.linkedin.com/in/beratguzel/)
 
-- ⚡ Fun fact **I think im funny cause I am very talkative and excited to learn. I love to meeting friends and talk everything we fun. I can define myself as extroverted. **
+- ⚡ Fun fact **I think im funny cause I am very talkative and excited to learn. I love to meeting friends and talk everything we fun. I can define myself as extroverted.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
