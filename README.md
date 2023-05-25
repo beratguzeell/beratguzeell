@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratguzeell&label=Profile%20views&color=0e75b6&style=flat" alt="beratguzeell" /> </p>
 
-- 🌱 I’m currently learning **C# , .NET , and OOD methodologies**
+- 🌱 I’m currently learning **C# , .NET , and OOD, OOP methodologies**
 
 - 🤝 I’m looking for help with **C# , .NET internership and being Junior**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/beratguzel/](https://www.linkedin.com/in/beratguzel/)
 
-- ⚡ Fun fact **I think im funny cause I am very talkative and excited to learn**
+- ⚡ Fun fact **I think im funny cause I am very talkative and excited to learn. I love to meeting friends and talk everything we fun. I can define myself as extroverted. **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
