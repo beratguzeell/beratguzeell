@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <div>
-      <style>
-
-  </style>
+ 
    <img src="https://media1.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47psph7ygjm8ih686k6gd1gzkw4gwch332t90ymvb8&ep=v1_gifs_search&rid=giphy.gif" width="280"/>
 </div>
 
