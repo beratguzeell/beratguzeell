@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Berat Güzel</h1>
-<h3 align="center">A passionate Begginer/Junior Developer and Translator & Interpreter </h3>
+<h3 align="center">A passionate Junior Developer and Translator & Interpreter </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratguzeell&label=Profile%20views&color=0e75b6&style=flat" alt="beratguzeell" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C#, Object Oriented Programming, WordPress**
 
-- 📫 How to reach me **contact@beratguzel.online**
+- 📫 How to reach me **contact@beratguzel.dev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/beratguzel/](https://www.linkedin.com/in/beratguzel/)
 
